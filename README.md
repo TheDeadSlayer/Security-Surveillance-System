@@ -45,6 +45,8 @@ To setup:
 # Android Application
 The android application acts as the main interface for the user to the system.
 
+App repo: https://github.com/InterVam/The-Observer
+
 Through the application the user can:
 - Create an account and log in 
 - View sensor outputs
